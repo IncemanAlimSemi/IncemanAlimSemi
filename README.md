@@ -18,18 +18,20 @@ Skills: JAVA / REACT / JS / HTML / CSS
 
 <div align="center">
   <div style="display: flex;">
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IncemanAlimSemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alimsemiinceman/)  
+    
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IncemanAlimSemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alimsemiinceman/)  
 
-    [![trophy](https://github-profile-trophy.vercel.app/?username=IncemanAlimSemi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IncemanAlimSemi)](https://github.com/ryo-ma/github-profile-trophy)
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IncemanAlimSemi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IncemanAlimSemi)](https://github.com/anuraghazra/github-readme-stats)
 
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IncemanAlimSemi&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IncemanAlimSemi&show_icons=true&count_private=true)  
 
-    [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IncemanAlimSemi)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IncemanAlimSemi)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-    ![GitHub streak stats](https://streak-stats.demolab.com/?user=IncemanAlimSemi)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=IncemanAlimSemi)  
 
-    ![Profile views](https://gpvc.arturio.dev/IncemanAlimSemi)  
+![Profile views](https://gpvc.arturio.dev/IncemanAlimSemi)  
+    
   </div>
 </div>
